@@ -1,0 +1,8 @@
+streamlit
+sqlalchemy
+python-dotenv
+openai
+googlemaps
+Pillow
+requests
+pandas
