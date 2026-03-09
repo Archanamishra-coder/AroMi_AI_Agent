@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlite3-api
+bcrypt
+Pillow
+openai
+google-generativeai
+SpeechRecognition
+plotly
+altair
